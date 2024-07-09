@@ -1,0 +1,6 @@
+.background {
+    background-image: url('/images/E-Learning\ Background.jpg');
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+  }
